@@ -3,6 +3,18 @@
     <channel>
         <title>sparkletest1.0</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Tue, 15 Oct 2024 10:16:02 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jakewilson/sparkletest/releases/download/v1.2/sparkletest1.2.dmg" length="855385" type="application/octet-stream" sparkle:edSignature="v/08BtMFvi7gNRIx1mPWvkt8gE2XjxDs849mZ5NgQ+jbxtmFgC+gT0GyzXeBb3naetosqfLZ5GrC0Hu7+yxFAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jakewilson/sparkletest/releases/download/v1.2/sparkletest3-2.delta" sparkle:deltaFrom="2" length="10642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Pio4l3OLDVdE4pEjpNPIR96zE3qhhFETH9uE0O+dISfASgF2wWiohyUbCgr56hYurb4K1xFxu3pl13D4YbdPBQ=="/>
+                <enclosure url="https://github.com/jakewilson/sparkletest/releases/download/v1.2/sparkletest3-1.delta" sparkle:deltaFrom="1" length="10102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3Af2DEBA5mmas9XMcpQ1bLzeLGxK0m9vLNBIHbLTweahopA9GbcEtMPCKJdC9YGGRvyKdXizdmp6tKp8hCG4CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Mon, 14 Oct 2024 21:25:54 -0700</pubDate>
             <sparkle:version>2</sparkle:version>
@@ -19,7 +31,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jakewilson/sparkletest/Sparkle-test.dmg" length="855421" type="application/octet-stream" sparkle:edSignature="lEVUtlx75ZbCA1RkRy/nPqluWIccBrqtOYQuUTcQRA6ttfjefIB3AW67wGpgBwQPwK7OYaI+oiHOGA5IWcrqAg=="/>
+            <enclosure url="https://github.com/jakewilson/sparkletest/releases/download/v1.0/Sparkle-test.dmg" length="855421" type="application/octet-stream" sparkle:edSignature="lEVUtlx75ZbCA1RkRy/nPqluWIccBrqtOYQuUTcQRA6ttfjefIB3AW67wGpgBwQPwK7OYaI+oiHOGA5IWcrqAg=="/>
         </item>
     </channel>
 </rss>
