@@ -3,12 +3,23 @@
     <channel>
         <title>sparkletest1.0</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Mon, 14 Oct 2024 21:25:54 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jakewilson/sparkletest/releases/download/v1.1/sparkletest1.1.dmg" length="855395" type="application/octet-stream" sparkle:edSignature="d7CNFBeipk9QYCkSqKzWrfaw4bO/fWSwby0yiwRHOlwN9BtPVAzB+Uu0iWXNXUm+7ldBtoptc6vd0KCQ2NxSAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://jakewilson.github.io/sparkletest/sparkletest1.12-1.delta" sparkle:deltaFrom="1" length="10070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qASyPNXGRRf5C+KfrP4zKVbqKIF6RsNQAC3s8kTQG8E1oejpx7xnx7iDuFRJBWaKvCw/0faHP71+5KmktnPyDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Mon, 14 Oct 2024 20:39:12 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jakewilson/sparkletest/releases/download/v1.0/Sparkle-test.dmg" length="855421" type="application/octet-stream" sparkle:edSignature="lEVUtlx75ZbCA1RkRy/nPqluWIccBrqtOYQuUTcQRA6ttfjefIB3AW67wGpgBwQPwK7OYaI+oiHOGA5IWcrqAg=="/>
+            <enclosure url="https://github.com/jakewilson/sparkletest/Sparkle-test.dmg" length="855421" type="application/octet-stream" sparkle:edSignature="lEVUtlx75ZbCA1RkRy/nPqluWIccBrqtOYQuUTcQRA6ttfjefIB3AW67wGpgBwQPwK7OYaI+oiHOGA5IWcrqAg=="/>
         </item>
     </channel>
 </rss>
